@@ -1,0 +1,25 @@
+# Zephyr / NCS build artifacts
+build/
+*.bin
+*.hex
+*.elf
+*.map
+zephyr.uf2
+*.uf2
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
